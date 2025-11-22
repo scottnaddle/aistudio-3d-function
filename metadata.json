@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 3D Function Explorer",
+  "description": "Interactive 3D visualization of the function z = A sin(Bx) cos(Cy) with real-time parameter controls and AI-powered mathematical analysis.",
+  "requestFramePermissions": []
+}
